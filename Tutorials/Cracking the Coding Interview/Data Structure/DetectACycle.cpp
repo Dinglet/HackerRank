@@ -1,4 +1,8 @@
 /*
+Linked Lists: Detect a Cycle
+https://www.hackerrank.com/challenges/ctci-linked-list-cycle
+*/
+/*
 Detect a cycle in a linked list. Note that the head pointer may be 'NULL' if the list is empty.
 
 A Node is defined as: 
