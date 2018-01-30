@@ -1,6 +1,9 @@
+/*
+Queues: A Tale of Two Stacks
+https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
+*/
 using System;
 using System.Collections.Generic;
-
 namespace TwoStacks
 {
     class Program
