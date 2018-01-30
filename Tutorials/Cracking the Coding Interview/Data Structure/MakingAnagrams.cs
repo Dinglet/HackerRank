@@ -1,7 +1,10 @@
 using System;
 using System.Collections;
 using System.Linq;
-
+/*
+Strings: Making Anagrams
+https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
+*/
 namespace MakingAnagrams
 {
     class Program
