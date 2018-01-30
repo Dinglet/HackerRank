@@ -1,9 +1,10 @@
-using System;
-using System.Linq;
 /*
 Arrays: Left Rotation
 https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
 */
+using System;
+using System.Linq;
+
 namespace LeftRotation
 {
     class Program
