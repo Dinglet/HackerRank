@@ -1,9 +1,10 @@
-using System;
-using System.Collections.Generic;
 /*
 Stacks: Balanced Brackets
 https://www.hackerrank.com/challenges/ctci-balanced-brackets/problem
 */
+using System;
+using System.Collections.Generic;
+
 namespace BalancedBrackets
 {
     class Program
